@@ -20,3 +20,8 @@ table{
 strong{
     color: black;
 }
+button{
+    text-align: center;
+    color:white;
+    background-color: blue;
+}
