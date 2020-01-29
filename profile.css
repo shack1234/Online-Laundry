@@ -1,4 +1,4 @@
-body{
+#profiles{
     background-image: url("https://bit.ly/2RVYIqU");
 }
 #par{
@@ -16,6 +16,8 @@ body{
 table{
     font-family: 'Lobster Two', cursive;
     color: white;
+    border-collapse:separate; 
+    border-spacing: 0,15px;
 }
 strong{
     color: black;
